@@ -2,7 +2,9 @@ fx_version 'cerulean'
 games { 'gta5' }
 lua54 'yes'
 
-authot 'Jozo_85#2261 - Divergence Public Script'
+authot 'Jozo_85#2261'
+description 'Divergence public script.'
+version '1.0.1'
 
 shared_scripts {
     'lua/shared/sh_*.lua',

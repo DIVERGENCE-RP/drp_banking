@@ -8,7 +8,7 @@ SimpleBanking.Config["Days_Transaction_History"] = 30
 SimpleBanking.Config["business_ranks"] = { 
     ['mayor'] = true,
     ['Manager'] = true,
-    ['owner'] = true,
+    ['Owner'] = true,
     ['chief'] = true,
     ['director'] = true,
 }
